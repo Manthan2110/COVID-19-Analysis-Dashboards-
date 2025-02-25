@@ -1,3 +1,5 @@
+# COVID-19-Analysis-Dashboards
+
 🦠 COVID-19 Analysis Dashboards (Power BI) 📊
 Because Pandemics Deserve Data-Driven Drama
 Welcome to the COVID-19 Analysis Dashboards, where data meets design, and insights come with a side of humor (because we all need a little laughter after surviving a pandemic). This Power BI-powered project dives deep into the numbers behind COVID-19, bringing clarity (and maybe some existential dread) to the global situation.
